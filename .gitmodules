@@ -1,0 +1,3 @@
+[submodule "npm-module-b"]
+	path = npm-module-b
+	url = https://github.com/maormenashe/npm-module-b.git
